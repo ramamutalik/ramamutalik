@@ -21,7 +21,7 @@ I’m currently a student at JSS, pursing my bachelor's degree in Computer Scien
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ramamutalik)          [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rama-mutalikdesai-a488671b1//)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ramamutalikdesa1?hr_r=1)   
 
-## Github Throphys
+## Github Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramamutalik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
