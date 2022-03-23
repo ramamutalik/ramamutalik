@@ -3,10 +3,10 @@
 <!--![corinne-kutz-tMI2_-r5Nfo-unsplash (1)](https://user-images.githubusercontent.com/68442061/142678338-440e5efd-5afb-4610-82ab-5cf95b45723c.jpg)-->
 ![coding girl](https://media3.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif?cid=790b761136a03cbea3386daa3384be72d935ad20debb4c95&rid=giphy.gif&ct=g)
 
-I’m currently a student at JSS, pursing my bachelor's degree in Computer Science . A motivated student, learning Web Dev and other skills that I can apply. And while I really enjoyed the work that I do, I’d love to learn new technologies, which is why I’m so excited about any opportunity that I get to do.
-
+I’m currently a student at JSSATE Bangalore, pursing my bachelor's degree in Computer Science. I'm a 2023 grad
 ## Skills:
-
+<!-- A motivated student, learning Web Dev and other skills that I can apply. And while I really enjoyed the work that I do, I’d love to learn new technologies, which is why I’m so excited about any opportunity that I get to do.
+-->
 <!--![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png) / C++ / HTML / CSS -->
 <p > <a href="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="60" height="60"/> </a> <a href="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" alt="cplusplus" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="html5" width="60" height="60"/> </a> <a  href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img   src="https://img.icons8.com/color/2x/css3.png"
  alt="css3" width="60" height="60"/></a>
