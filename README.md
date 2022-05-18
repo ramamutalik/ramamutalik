@@ -27,8 +27,8 @@ I’m currently a student at JSSATE Bangalore, pursing my bachelor's degree in C
 
 ## Languages usage
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramamutalik&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramamutalik&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramamutalik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Github stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramamutalik&&theme=dark&show_icons=true)  
