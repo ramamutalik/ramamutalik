@@ -23,7 +23,7 @@ I’m currently a student at JSSATE Bangalore, pursing my bachelor's degree in C
 
 ## Github Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ramamutalik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ramamutalik&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages usage
 
@@ -31,11 +31,11 @@ I’m currently a student at JSSATE Bangalore, pursing my bachelor's degree in C
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramamutalik&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Github stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramamutalik&&theme=dark&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramamutalik&&theme=radical&show_icons=true)  
 
 ## Github streaks
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ramamutalik&theme=dark&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ramamutalik&theme=radical&show_icons=true)  
 
 
 <!--
