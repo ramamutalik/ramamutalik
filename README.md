@@ -16,6 +16,7 @@ I’m currently a student at JSSATE Bangalore, pursing my bachelor's degree in C
 
 - 🔭 I’m currently working on improving my coding skills 
 - 🌱 I’m currently learning Web development 
+- 👯 I’m looking to collaborate on designing web pages for websites
 
 ## Links
 
