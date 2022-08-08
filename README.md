@@ -1,8 +1,8 @@
 ## Hi there 👋, my name is [Rama](https://github.com/ramamutalik)
 ### I am student
 <!-- ![corinne-kutz-tMI2_-r5Nfo-unsplash (1)](https://user-images.githubusercontent.com/68442061/142678338-440e5efd-5afb-4610-82ab-5cf95b45723c.jpg) -->
-![coding girl](https://media3.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif?cid=790b761136a03cbea3386daa3384be72d935ad20debb4c95&rid=giphy.gif&ct=g)
-<p>I’m currently a student at JSSATE Bangalore, pursing my bachelor's degree in Computer Science. I'm a 2023 grad</p>
+<!-- ![coding girl](https://media3.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif?cid=790b761136a03cbea3386daa3384be72d935ad20debb4c95&rid=giphy.gif&ct=g)
+<p>I’m currently a student at JSSATE Bangalore, pursing my bachelor's degree in Computer Science. I'm a 2023 grad</p> -->
 
 ## Skills:
 <!--I’m currently a student at JSSATE Bangalore, pursing my bachelor's degree in Computer Science. I'm a 2023 grad. A motivated student, learning Web Dev and other skills that I can apply. And while I really enjoyed the work that I do, I’d love to learn new technologies, which is why I’m so excited about any opportunity that I get to do.
