@@ -20,32 +20,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jfLiBJFzNOwBcCkUDksUpTcHlTMffB1-/view?usp=sharing](https://drive.google.com/file/d/1jfLiBJFzNOwBcCkUDksUpTcHlTMffB1-/view?usp=sharing)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ramamutalik&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="ramamutalik" /> </p>
-
-## GitHub Trophy:
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramamutalik&theme=radical" alt="ramamutalik" /></a> </p>
-
-## Connect with me:
-<p align="center">
-
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rama-mutalikdesai-a488671b1/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rama-mutalikdesai-a488671b1/" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/ramamutalikdesa1?hr_r=1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ramamutalikdesa1?hr_r=1" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.leetcode.com/https://leetcode.com/ramadesai779/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ramadesai779/" height="30" width="40" />
-  </a>
-  
-  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ramadesai779/practice/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ramadesai779/practice/" height="30" width="40" />
-  </a>
-  
-</p>
-
 ## Languages and Tools:
 
   <p align="center"> 
@@ -80,9 +54,41 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
      </a>
    </p>
+   
+   
+## Connect with me:
+<p align="center">
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramamutalik&show_icons=true&theme=radical&locale=en&layout=compact" alt="ramamutalik" /></p>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rama-mutalikdesai-a488671b1/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rama-mutalikdesai-a488671b1/" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/https://www.hackerrank.com/ramamutalikdesa1?hr_r=1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ramamutalikdesa1?hr_r=1" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.leetcode.com/https://leetcode.com/ramadesai779/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ramadesai779/" height="30" width="40" />
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ramadesai779/practice/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ramadesai779/practice/" height="30" width="40" />
+  </a>
+  
+</p>
+
+
+## GitHub Trophy:
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramamutalik&theme=radical" alt="ramamutalik" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ramamutalik&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="ramamutalik" /> </p>
+
+## GitHub Stats
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramamutalik&show_icons=true&theme=radical&locale=en&layout=compact" alt="ramamutalik" />
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramamutalik&theme=radical&show_icons=true&locale=en" alt="ramamutalik" /></p>
 
+## GitHub Streak Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramamutalik&theme=radical" alt="ramamutalik" /></p>
