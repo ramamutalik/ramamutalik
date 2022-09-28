@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi! 👋, I'm Rama Mutalikdesai</h1>
 
-<h3 align="center">I am currently pursuing my Bachelore in 4th year of BE in computer science and engineering from JSS Academy of Technical Education, Bangalore. I'm interested in Web Development and currently focusing more on my problem solving skill.</h3>
+<h3 align="center">I am currently pursuing my Bachelor in 4th year of BE in computer science and engineering from JSS Academy of Technical Education, Bangalore. I'm interested in Web Development and currently focusing more on my problem solving skill.</h3>
 
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
