@@ -1,4 +1,4 @@
-
+<!-- [![MasterHead](https://image.shutterstock.com/image-illustration/quick-learner-text-written-on-260nw-2178992033.jpg)]() -->
 
 <h1 align="center">Hi 👋, I'm Rama Mutalikdesai</h1>
 
