@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://image.shutterstock.com/image-illustration/quick-learner-text-written-on-260nw-2178992033.jpg)]() -->
 
-<h1 align="center">Hi 👋, I'm Rama Mutalikdesai</h1>
+<h1 align="center">Hi! 👋, I'm Rama Mutalikdesai</h1>
 
 <h3 align="center">I am currently pursuing my Bachelore in 4th year of BE in computer science and engineering from JSS Academy of Technical Education, Bangalore. I'm interested in Web Development and currently focusing more on my problem solving skill.</h3>
 
