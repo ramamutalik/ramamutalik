@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **ramadesai779@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jfLiBJFzNOwBcCkUDksUpTcHlTMffB1-/view?usp=sharing](https://drive.google.com/file/d/1jfLiBJFzNOwBcCkUDksUpTcHlTMffB1-/view?usp=sharing)
-
 
 ## Languages and Tools:
 
