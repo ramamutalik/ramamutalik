@@ -54,12 +54,8 @@
    </p>
    
    
-## Connect with me:
+## Coding Profiles:
 <p align="center">
-
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rama-mutalikdesai-a488671b1/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rama-mutalikdesai-a488671b1/" height="30" width="40" />
-  </a>
   
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/ramamutalikdesa1?hr_r=1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ramamutalikdesa1?hr_r=1" height="30" width="40" />
@@ -75,6 +71,14 @@
   
 </p>
 
+##
+
+<p align="center">
+<span> Connect with me:    </span>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rama-mutalikdesai-a488671b1/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rama-mutalikdesai-a488671b1/" height="30" width="40" />
+  </a>
+</p>
 
 ## GitHub Trophy:
 
