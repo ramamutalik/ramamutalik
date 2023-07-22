@@ -2,18 +2,17 @@
 
 <h1 align="center">Hi! 👋, I'm Rama Mutalikdesai</h1>
 
-<h3 align="center">I am currently doing 4th year of BE in computer science and engineering from JSS Academy of Technical Education, Bangalore. I'm interested in Web Development and currently focusing on my problem solving skill.</h3>
+<h3 align="center">I am working as software engineer at Ribbon on development of Apollo product which is basically a router for long haul communications between sender and receiver with no or little attenuation.
+  I have completed my bachelor's in computer science and engineering from JSS Academy of Technical Education, Bangalore. I'm am a keen programmer and passionate learner</h3>
 
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
 
-- 🔭 I’m currently working on **Algorithm Visualizer Website**
+- 🔭 I’m currently working on **Improving my problem solving skills**
 
-- 🌱 I’m currently learning **Backend Technologies**
-
-- 👯 I’m looking to collaborate on **Web Development Projects(MERN)**
+- 🌱 I’m currently learning **Advanced C++ concepts**
 
 - 📫 How to reach me **ramadesai779@gmail.com**
 
